@@ -1,0 +1,37 @@
+[
+  {
+    "metric_key": "total_victims_official",
+    "label": "Víctimas oficiales",
+    "value": 2977,
+    "unit": "",
+    "notes": "Conteo ampliamente citado de víctimas excluyendo a los 19 secuestradores."
+  },
+  {
+    "metric_key": "injured_estimated",
+    "label": "Heridos estimados",
+    "value": 6000,
+    "unit": "+",
+    "notes": "Valor referencial para visualización ejecutiva."
+  },
+  {
+    "metric_key": "planes_hijacked",
+    "label": "Aviones secuestrados",
+    "value": 4,
+    "unit": "",
+    "notes": "AA11, UA175, AA77 y UA93."
+  },
+  {
+    "metric_key": "attack_duration_minutes",
+    "label": "Ventana crítica",
+    "value": 102,
+    "unit": "min",
+    "notes": "Del primer impacto al colapso de la Torre Norte."
+  },
+  {
+    "metric_key": "countries_affected",
+    "label": "Países con víctimas",
+    "value": 90,
+    "unit": "+",
+    "notes": "Valor referencial ampliamente utilizado en resúmenes históricos."
+  }
+]

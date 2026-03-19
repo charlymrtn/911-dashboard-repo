@@ -1,0 +1,119 @@
+[
+  {
+    "location_id": "loc-aa11-airspace",
+    "name": "Espacio aéreo del AA11",
+    "city": "Costa Este",
+    "state": "Massachusetts / Nueva York",
+    "country": "Estados Unidos",
+    "lat": 41.0,
+    "lng": -72.0
+  },
+  {
+    "location_id": "loc-boston-logan",
+    "name": "Aeropuerto Logan",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "country": "Estados Unidos",
+    "lat": 42.3656,
+    "lng": -71.0096
+  },
+  {
+    "location_id": "loc-newark",
+    "name": "Aeropuerto Newark",
+    "city": "Newark",
+    "state": "New Jersey",
+    "country": "Estados Unidos",
+    "lat": 40.6895,
+    "lng": -74.1745
+  },
+  {
+    "location_id": "loc-wtc-north",
+    "name": "World Trade Center - Torre Norte",
+    "city": "Nueva York",
+    "state": "New York",
+    "country": "Estados Unidos",
+    "lat": 40.7128,
+    "lng": -74.0132
+  },
+  {
+    "location_id": "loc-lower-manhattan",
+    "name": "Lower Manhattan",
+    "city": "Nueva York",
+    "state": "New York",
+    "country": "Estados Unidos",
+    "lat": 40.7075,
+    "lng": -74.0113
+  },
+  {
+    "location_id": "loc-ua175-airspace",
+    "name": "Espacio aéreo del UA175",
+    "city": "Costa Este",
+    "state": "Massachusetts / Nueva York",
+    "country": "Estados Unidos",
+    "lat": 41.1,
+    "lng": -71.8
+  },
+  {
+    "location_id": "loc-wtc-south",
+    "name": "World Trade Center - Torre Sur",
+    "city": "Nueva York",
+    "state": "New York",
+    "country": "Estados Unidos",
+    "lat": 40.7116,
+    "lng": -74.0132
+  },
+  {
+    "location_id": "loc-sarasota-school",
+    "name": "Emma E. Booker Elementary School",
+    "city": "Sarasota",
+    "state": "Florida",
+    "country": "Estados Unidos",
+    "lat": 27.3364,
+    "lng": -82.5307
+  },
+  {
+    "location_id": "loc-ua93-airspace",
+    "name": "Espacio aéreo del UA93",
+    "city": "Pennsylvania",
+    "state": "Pennsylvania",
+    "country": "Estados Unidos",
+    "lat": 40.3,
+    "lng": -78.7
+  },
+  {
+    "location_id": "loc-pentagon",
+    "name": "Pentágono",
+    "city": "Arlington",
+    "state": "Virginia",
+    "country": "Estados Unidos",
+    "lat": 38.8719,
+    "lng": -77.0563
+  },
+  {
+    "location_id": "loc-usa-airspace",
+    "name": "Espacio aéreo de Estados Unidos",
+    "city": "Nacional",
+    "state": "Federal",
+    "country": "Estados Unidos",
+    "lat": 39.8283,
+    "lng": -98.5795
+  },
+  {
+    "location_id": "loc-shanksville",
+    "name": "Memorial del vuelo 93",
+    "city": "Shanksville",
+    "state": "Pennsylvania",
+    "country": "Estados Unidos",
+    "lat": 40.0606,
+    "lng": -78.9055
+  },
+  {
+    "location_id": "loc-wtc-7",
+    "name": "World Trade Center 7",
+    "city": "Nueva York",
+    "state": "New York",
+    "country": "Estados Unidos",
+    "lat": 40.7135,
+    "lng": -74.0129
+  }
+]
