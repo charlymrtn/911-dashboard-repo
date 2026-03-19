@@ -2,7 +2,7 @@ const { MongoClient } = require("mongodb");
 const fs = require("fs");
 const path = require("path");
 
-const uri = process.env.MONGODB_URI || "mongodb://localhost:27017";
+const uri = process.env.MONGODB_URI || "mongodb://mongo:27017";
 const dbName = process.env.MONGODB_DB || "nine_eleven";
 
 async function loadJson(relativePath) {
